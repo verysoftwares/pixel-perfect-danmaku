@@ -20,6 +20,7 @@ bullets={}
 
 function TIC()
   
+  		-- 4-way input with arrow keys.
     if btn(0) then y=y-1 end
     if btn(1) then y=y+1 end
     if btn(2) then x=x-1 end
