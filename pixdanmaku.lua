@@ -127,6 +127,7 @@ function attack2()
     print(victory,0,0,colour)
 end
 
+-- don't forget to set the stage!
 stage=attack1
 -- <TILES>
 -- 001:eeeeee66eeeee666eeee6669eee6669eee6669eee6669ee66669ee66669ee66e
