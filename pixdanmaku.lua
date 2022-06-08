@@ -30,9 +30,9 @@ function TIC()
     
     stage()   -- create more bullets
   
-    bullet_update()     -- move, draw & remove bullets
+    bullet_update()   -- move, draw & remove bullets
         
-    pixelperfect()  -- collision with current state of screen.
+    pixelperfect()   -- collision with current state of screen.
     
     t=t+1
 end
